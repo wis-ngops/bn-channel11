@@ -12,8 +12,6 @@ $('.owl-carousel').owlCarousel({
   navText: ["<div class='nav-button owl-prev'>‹</div>", "<div class='nav-button owl-next'>›</div>"]
 })
 
-$('#datepicker').datepicker('show');
-
 function reveal() {
   var reveals = document.querySelectorAll(".reveal");
 
